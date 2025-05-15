@@ -4,8 +4,6 @@ title: Personal
 permalink: /personal/
 ---
 
-## Recent Personal Posts
-
 Here you'll find posts about my personal interests, hobbies, and recent experiences.
 
 ### Latest Updates
