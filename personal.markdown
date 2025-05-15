@@ -18,12 +18,13 @@ I love exploring new places and experiencing different cultures. Some of my favo
 
 ### Sports & Fitness
 
-- Football (soccer) - I'm a huge FC Barcelona fan!
-- Running and hiking
+- Football - I'm a huge Newcastle United fan!
 - Swimming
 
-### Books & Reading
+### Artificial Intelligence
 
-I'm an avid reader, particularly enjoying science fiction, technical books, and biographies. Some recent favorites:
-- "Project Hail Mary" by Andy Weir
-- "Atomic Habits" by James Clear 
+I'm passionate about Generative AI and its applications:
+- Large Language Models
+- Image generation
+- AI for software development
+- Prompt engineering techniques 
