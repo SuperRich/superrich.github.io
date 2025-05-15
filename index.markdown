@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Hello!
 ---
 
 A simple personal blog built with Jekyll and GitHub Pages. Sharing thoughts, ideas, and projects. 
