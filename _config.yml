@@ -28,6 +28,13 @@ github_username:
 instagram_username: your_instagram_handle
 linkedin_username: your_linkedin_handle
 
+# Navigation
+header_pages:
+  - index.markdown
+  - dev.markdown
+  - personal.markdown
+  - about.markdown
+
 # Build settings
 theme: minima
 plugins:
