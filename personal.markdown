@@ -4,27 +4,20 @@ title: Personal
 permalink: /personal/
 ---
 
-## Personal Interests & Hobbies
+## My New Smartwatch
 
-Outside of coding and technology, I enjoy a variety of activities and interests.
+I recently got a new smartwatch and I'm absolutely chuffed with it! This piece of tech has completely changed how I track my daily activities.
 
-### Travel
+### Key Features
 
-I love exploring new places and experiencing different cultures. Some of my favorite destinations include:
+- Heart rate monitoring
+- Sleep tracking
+- Step counter
+- Notifications from my phone
+- Water resistance for swimming
 
-- Barcelona, Spain
-- Tokyo, Japan
-- Vancouver, Canada
+The battery life is outstanding - nearly a full week on a single charge. I've been using it to track my football sessions and daily walks around Newcastle.
 
-### Sports & Fitness
+What I love most is how it reminds me to get up and move when I've been coding for too long. As someone who can get lost in development work for hours, these little nudges to stand up and stretch are brilliant for my health.
 
-- Football - I'm a huge Newcastle United fan!
-- Swimming
-
-### Artificial Intelligence
-
-I'm passionate about Generative AI and its applications:
-- Large Language Models
-- Image generation
-- AI for software development
-- Prompt engineering techniques 
+Would definitely recommend to any tech enthusiasts looking for a reliable fitness companion! 
