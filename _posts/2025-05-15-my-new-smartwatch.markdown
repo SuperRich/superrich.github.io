@@ -5,7 +5,7 @@ date: 2025-05-15 10:00:00 +0100
 categories: tech gadgets
 ---
 
-I recently got a new smartwatch and I'm absolutely chuffed with it! This piece of tech has completely changed how I track my daily activities.
+I recently got a new smartwatch and I'm absolutely chuffed with it! This piece of tech has completely changed how I track my daily activities. It is called the Amazfit Active 2. When you combine it with the Zepp app on your phone, you can log food and count your daily calories which as a huge fan of food is great for me as I love to eat but when I scan my food now,  Zepps AI tells me - "No pal, that's enough" - well that's great.
 
 ## Key Features
 
@@ -13,10 +13,7 @@ I recently got a new smartwatch and I'm absolutely chuffed with it! This piece o
 - Sleep tracking
 - Step counter
 - Notifications from my phone
-- Water resistance for swimming
 
-The battery life is outstanding - nearly a full week on a single charge. I've been using it to track my football sessions and daily walks around Newcastle.
+What I love most is how it reminds me to get up and move when I've been sat at my computer for too long. As someone who can get lost in development work for hours, these little nudges to stand up and stretch are brilliant for my health.
 
-What I love most is how it reminds me to get up and move when I've been coding for too long. As someone who can get lost in development work for hours, these little nudges to stand up and stretch are brilliant for my health.
-
-Would definitely recommend to any tech enthusiasts looking for a reliable fitness companion! 
+Would definitely recommend! 
