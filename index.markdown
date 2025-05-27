@@ -1,5 +1,7 @@
 ---
 layout: home
+show_posts: true
+list_title: "Latest Posts"
 ---
 
 <div class="hero-section">
@@ -43,12 +45,5 @@ layout: home
       <p>Follow my adventures in fitness, technology, and personal growth as I explore new challenges and experiences.</p>
       <a href="/personal/" class="feature-link">Read Stories →</a>
     </div>
-  </div>
-</div>
-
-<div class="latest-posts-section">
-  <h2 class="section-title">Latest Posts</h2>
-  <div class="posts-preview">
-    <!-- Jekyll will automatically populate this with recent posts -->
   </div>
 </div>
