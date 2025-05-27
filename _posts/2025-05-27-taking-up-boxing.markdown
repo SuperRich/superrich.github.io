@@ -1,6 +1,6 @@
 ---
 title: "Taking Up Boxing at Gosforth Gym Group"
-date: 2025-05-16
+date: 2025-05-27
 categories: personal
 ---
 
