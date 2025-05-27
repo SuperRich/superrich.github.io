@@ -4,7 +4,7 @@ title: RichCode Podcast
 permalink: /richcode-podcast/
 ---
 
-# Welcome to RichCode Podcast
+
 
 <div class="video-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/t13ecZsfsPU" title="RichCode Podcast Introduction" frameborder="0" allowfullscreen></iframe>
