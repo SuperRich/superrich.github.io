@@ -13,15 +13,15 @@ I offer one-on-one coaching sessions for developers looking to advance their ski
 ### .NET Development
 - **Advanced C# techniques** and best practices
 - **Architecture patterns** (Clean Architecture, CQRS, DDD)
-- **Performance optimization** and debugging
+- **Performance optimisation** and debugging
 - **Modern .NET features** and framework updates
-- **Testing strategies** (Unit, Integration, E2E)
+- **Testing strategies** (Unit)
 
 ### AI Development Tools
 - **AI-powered development workflows** with tools like Cursor, GitHub Copilot
 - **Prompt engineering** for better AI assistance
 - **Code review** with AI tools integration
-- **Productivity optimization** using AI in development
+- **Productivity optimisation** using AI in development
 
 ### Junior Developer Mentoring
 - **Career guidance** and development roadmaps
