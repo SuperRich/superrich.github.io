@@ -27,6 +27,12 @@ RichCode Podcast is where development meets conversation. Join me as I explore t
 
 Episodes coming soon! Follow along for updates on when the first episode drops.
 
+## Episodes
+
+### Episode 1: Darren – Mature Uni Student and Aspiring Software Engineer
+
+*Coming soon*
+
 ---
 
 *Have a topic suggestion or want to be a guest? Reach out through the [About](/about/) page.* 
