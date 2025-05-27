@@ -4,7 +4,6 @@ title: Dev
 permalink: /dev/
 ---
 
-## Development Posts
 
 <div class="dev-posts">
   {% if site.posts.size > 0 %}

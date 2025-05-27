@@ -51,7 +51,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Blog Owner"
+      author: "Richard Hunter"
       
 # Permalink structure
 permalink: /:year/:month/:day/:title/

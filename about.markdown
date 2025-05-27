@@ -40,10 +40,10 @@ permalink: /about/
     </div>
 
     <div class="about-section">
-      <div class="section-icon">🥊</div>
-      <h3>Personal Interests</h3>
-      <p>Beyond coding, I'm passionate about personal fitness and recently took up boxing at Gosforth Gym Group. I believe in the importance of maintaining physical and mental well-being alongside professional development.</p>
-      <p>I also enjoy exploring new technologies, reading about productivity and personal development, and sharing my experiences through my personal blog posts.</p>
+      <div class="section-icon">⚫⚪</div>
+      <h3>Personal Life</h3>
+      <p>Born and raised in Newcastle upon Tyne, I'm a proud dad to a football-mad young lad who's just as passionate about the beautiful game as his old man. We're both lifelong, dedicated Newcastle United fans - proper Geordies through and through! I've supported the Toon through thick and thin, including two relegations, and was backing them long before the Saudi takeover.</p>
+      <p>I'm also working on my personal fitness journey and recently took up boxing at Gosforth Gym Group. I believe in the importance of maintaining physical and mental well-being alongside professional development, and I enjoy exploring new technologies, reading about productivity and personal development, and sharing my experiences through my personal blog posts.</p>
     </div>
   </div>
 
