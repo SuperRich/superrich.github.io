@@ -34,6 +34,7 @@ header_pages:
   - dev.markdown
   - personal.markdown
   - richcode-podcast.markdown
+  - coaching.markdown
   - about.markdown
 
 # Build settings
