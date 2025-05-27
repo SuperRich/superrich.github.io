@@ -53,5 +53,45 @@
         </div>
       </div>
     </footer>
+
+    <script>
+      // Enhanced hamburger menu functionality
+      document.addEventListener('DOMContentLoaded', function() {
+        const navTrigger = document.getElementById('nav-trigger');
+        const menuLabel = document.querySelector('label[for="nav-trigger"]');
+        const trigger = document.querySelector('.site-nav .trigger');
+        
+        if (menuLabel && trigger) {
+          // Add click handler for better mobile support
+          menuLabel.addEventListener('click', function(e) {
+            // Let the checkbox handle the toggle, but ensure it works
+            setTimeout(function() {
+              if (navTrigger.checked) {
+                trigger.style.display = 'block';
+              } else {
+                trigger.style.display = 'none';
+              }
+            }, 10);
+          });
+          
+          // Close menu when clicking outside
+          document.addEventListener('click', function(e) {
+            if (!e.target.closest('.site-nav') && navTrigger.checked) {
+              navTrigger.checked = false;
+              trigger.style.display = 'none';
+            }
+          });
+          
+          // Close menu when clicking on a link
+          const pageLinks = trigger.querySelectorAll('.page-link');
+          pageLinks.forEach(function(link) {
+            link.addEventListener('click', function() {
+              navTrigger.checked = false;
+              trigger.style.display = 'none';
+            });
+          });
+        }
+      });
+    </script>
   </body>
 </html> 
