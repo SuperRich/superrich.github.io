@@ -33,6 +33,7 @@ header_pages:
   - index.markdown
   - dev.markdown
   - personal.markdown
+  - richcode-podcast.markdown
   - about.markdown
 
 # Build settings
