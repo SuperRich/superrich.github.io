@@ -6,6 +6,13 @@ permalink: /richcode-podcast/
 
 # Welcome to RichCode Podcast
 
+## Watch the Introduction
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/t13ecZsfsPU" title="RichCode Podcast Introduction" frameborder="0" allowfullscreen></iframe>
+</div>
+<p style="text-align:center; font-size: 0.95em; color: #666;">Click play to watch the RichCode Podcast introduction.</p>
+
 Coming soon! This is where I'll share episodes, show notes, and resources from the RichCode Podcast.
 
 ## About the Podcast
