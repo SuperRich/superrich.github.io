@@ -355,7 +355,7 @@ h3 { font-size: 1.5rem; }
 
   @media screen and (max-width: 768px) {
     position: absolute !important;
-    top: 50% !important;
+    top: calc(50% + 8px) !important;
     right: 1rem !important;
     transform: translateY(-50%) !important;
     background: transparent !important;
