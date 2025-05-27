@@ -12,7 +12,7 @@ My passion for tech sparked at the age of 10 when I stumbled upon a C++ book in 
 
 Today, I'm deeply immersed in Generative AI and excited about where this technology is headed. Even my son, who's not yet eight, knows about ChatGPT! The potential of AI and agents is extraordinary—it amplifies human capability exponentially and makes intelligence accessible to everyone. As thrilling as it is, I do sometimes wonder: how advanced will it get, and what does it mean for my son's future, as well as my own?
 
-I'm always keen to connect and discuss the latest in Gen AI, tech trends, or even reminisce about Newcastle's ups and downs—feel free to reach out!
+I'm always keen to connect and discuss the latest in Gen AI, tech trends, or even reminisce about Newcastle's ups and downs—feel free to reach out at richyhunter.rh@gmail.com. If you want coaching, please see the coaching section.
 
 ---
 
