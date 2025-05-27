@@ -32,7 +32,7 @@ I offer one-on-one coaching sessions for developers looking to advance their ski
 
 ## Investment
 
-**£300 per hour** - Professional coaching sessions via Google Meet
+**£350 per hour** - Professional coaching sessions via Google Meet
 
 ## How It Works
 
